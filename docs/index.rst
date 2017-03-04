@@ -24,7 +24,7 @@ Once you're hooked, try your hand at the :ref:`tutorials <tutorials>`.
 .. ======================== Tutorial ========================
 .. _tutorials:
 
-Tutorials
+Tutorials_doit
 ---------
 .. toctree::
    :maxdepth: 1
